@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Biochemistry Student at the University of California Polytechnic University in San Luis Obispo, CA
 
 ### More Information
 
