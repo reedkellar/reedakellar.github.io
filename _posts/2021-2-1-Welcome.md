@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: Welcome to Reed Kellar's Website!
 ---
-You can change the title above if you want to and then write your content.  
+If you have any further questions about me or the research I am doing currently, you can contact me at rkellar@calpoly.edu
